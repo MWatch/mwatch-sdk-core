@@ -1,5 +1,5 @@
 [package]
-name = "mabez-watch-sdk-core"
+name = "mwatch-sdk-core"
 version = "0.1.0"
 authors = ["Scott Mabin <MabezDev@gmail.com>"]
 edition = "2018"
