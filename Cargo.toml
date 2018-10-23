@@ -3,6 +3,15 @@ name = "mwatch-sdk-core"
 version = "0.1.0"
 authors = ["Scott Mabin <MabezDev@gmail.com>"]
 edition = "2018"
+description = "Interop objects between the MWatch Kernel and the MWatch userspace"
+keywords = ["no-std", "embedded", "mwatch"]
+repository = "https://github.com/MWatch/mwatch-sdk-core"
+# readme = "README.md"
+license = "MIT OR Apache-2.0"
+exclude = [
+	".travis.yml",
+	".gitignore",
+]
 
 [dependencies]
 ssd1351 = "0.1.4"
